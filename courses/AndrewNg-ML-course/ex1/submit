@@ -1,0 +1,490 @@
+
+Testing the cost function ...
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+With theta = [0 ; 0]
+Cost computed = 32.072734
+Expected cost value (approx) 32.07
+
+With theta = [-1 ; 2]
+Cost computed = 29.502915
+
+With theta = [-1 ; 2]
+Cost computed = 23.913430
+
+With theta = [-1 ; 2]
+Cost computed = 67.025249
+
+With theta = [-1 ; 2]
+Cost computed = 40.709828
+
+With theta = [-1 ; 2]
+Cost computed = 26.934454
+
+With theta = [-1 ; 2]
+Cost computed = 64.294323
+
+With theta = [-1 ; 2]
+Cost computed = 47.940764
+
+With theta = [-1 ; 2]
+Cost computed = 68.245899
+
+With theta = [-1 ; 2]
+Cost computed = 33.833454
+
+With theta = [-1 ; 2]
+Cost computed = 20.371647
+
+With theta = [-1 ; 2]
+Cost computed = 25.523561
+
+With theta = [-1 ; 2]
+Cost computed = 245.910643
+
+With theta = [-1 ; 2]
+Cost computed = 25.738180
+
+With theta = [-1 ; 2]
+Cost computed = 64.801884
+
+With theta = [-1 ; 2]
+Cost computed = 24.891844
+
+With theta = [-1 ; 2]
+Cost computed = 22.706871
+
+With theta = [-1 ; 2]
+Cost computed = 32.380843
+
+With theta = [-1 ; 2]
+Cost computed = 20.876827
+
+With theta = [-1 ; 2]
+Cost computed = 33.145576
+
+With theta = [-1 ; 2]
+Cost computed = 41.687982
+
+With theta = [-1 ; 2]
+Cost computed = 30.365605
+
+With theta = [-1 ; 2]
+Cost computed = 582.899134
+
+With theta = [-1 ; 2]
+Cost computed = 23.599194
+
+With theta = [-1 ; 2]
+Cost computed = 31.920847
+
+With theta = [-1 ; 2]
+Cost computed = 24.229888
+
+With theta = [-1 ; 2]
+Cost computed = 497.103092
+
+With theta = [-1 ; 2]
+Cost computed = 192.062188
+
+With theta = [-1 ; 2]
+Cost computed = 128.650761
+
+With theta = [-1 ; 2]
+Cost computed = 205.400934
+
+With theta = [-1 ; 2]
+Cost computed = 720.659656
+
+With theta = [-1 ; 2]
+Cost computed = 21.743535
+
+With theta = [-1 ; 2]
+Cost computed = 35.120661
+
+With theta = [-1 ; 2]
+Cost computed = 82.970898
+
+With theta = [-1 ; 2]
+Cost computed = 27.248852
+
+With theta = [-1 ; 2]
+Cost computed = 60.942552
+
+With theta = [-1 ; 2]
+Cost computed = 55.774352
+
+With theta = [-1 ; 2]
+Cost computed = 58.761156
+
+With theta = [-1 ; 2]
+Cost computed = 24.588583
+
+With theta = [-1 ; 2]
+Cost computed = 192.363386
+
+With theta = [-1 ; 2]
+Cost computed = 32.239731
+
+With theta = [-1 ; 2]
+Cost computed = 22.923966
+
+With theta = [-1 ; 2]
+Cost computed = 39.008787
+
+With theta = [-1 ; 2]
+Cost computed = 152.421211
+
+With theta = [-1 ; 2]
+Cost computed = 26.108864
+
+With theta = [-1 ; 2]
+Cost computed = 53.835369
+
+With theta = [-1 ; 2]
+Cost computed = 42.014666
+
+With theta = [-1 ; 2]
+Cost computed = 20.474160
+
+With theta = [-1 ; 2]
+Cost computed = 26.371237
+
+With theta = [-1 ; 2]
+Cost computed = 152.156109
+
+With theta = [-1 ; 2]
+Cost computed = 24.031028
+
+With theta = [-1 ; 2]
+Cost computed = 48.984209
+
+With theta = [-1 ; 2]
+Cost computed = 22.155073
+
+With theta = [-1 ; 2]
+Cost computed = 47.094342
+
+With theta = [-1 ; 2]
+Cost computed = 50.028873
+
+With theta = [-1 ; 2]
+Cost computed = 31.998832
+
+With theta = [-1 ; 2]
+Cost computed = 32.304336
+
+With theta = [-1 ; 2]
+Cost computed = 31.322838
+
+With theta = [-1 ; 2]
+Cost computed = 24.882961
+
+With theta = [-1 ; 2]
+Cost computed = 84.424087
+
+With theta = [-1 ; 2]
+Cost computed = 87.844081
+
+With theta = [-1 ; 2]
+Cost computed = 73.471034
+
+With theta = [-1 ; 2]
+Cost computed = 21.218302
+
+With theta = [-1 ; 2]
+Cost computed = 652.943641
+
+With theta = [-1 ; 2]
+Cost computed = 278.993146
+
+With theta = [-1 ; 2]
+Cost computed = 497.972908
+
+With theta = [-1 ; 2]
+Cost computed = 43.884202
+
+With theta = [-1 ; 2]
+Cost computed = 62.566619
+
+With theta = [-1 ; 2]
+Cost computed = 107.952488
+
+With theta = [-1 ; 2]
+Cost computed = 23.676391
+
+With theta = [-1 ; 2]
+Cost computed = 587.694739
+
+With theta = [-1 ; 2]
+Cost computed = 105.245915
+
+With theta = [-1 ; 2]
+Cost computed = 45.678377
+
+With theta = [-1 ; 2]
+Cost computed = 28.406320
+
+With theta = [-1 ; 2]
+Cost computed = 44.001319
+
+With theta = [-1 ; 2]
+Cost computed = 20.192020
+
+With theta = [-1 ; 2]
+Cost computed = 34.597913
+
+With theta = [-1 ; 2]
+Cost computed = 48.957842
+
+With theta = [-1 ; 2]
+Cost computed = 20.253926
+
+With theta = [-1 ; 2]
+Cost computed = 108.991474
+
+With theta = [-1 ; 2]
+Cost computed = 20.724567
+
+With theta = [-1 ; 2]
+Cost computed = 25.693789
+
+With theta = [-1 ; 2]
+Cost computed = 21.282521
+
+With theta = [-1 ; 2]
+Cost computed = 32.266733
+
+With theta = [-1 ; 2]
+Cost computed = 95.647951
+
+With theta = [-1 ; 2]
+Cost computed = 34.199534
+
+With theta = [-1 ; 2]
+Cost computed = 66.996698
+
+With theta = [-1 ; 2]
+Cost computed = 81.394758
+
+With theta = [-1 ; 2]
+Cost computed = 28.362900
+
+With theta = [-1 ; 2]
+Cost computed = 23.851979
+
+With theta = [-1 ; 2]
+Cost computed = 20.403086
+
+With theta = [-1 ; 2]
+Cost computed = 25.496085
+
+With theta = [-1 ; 2]
+Cost computed = 50.591711
+
+With theta = [-1 ; 2]
+Cost computed = 27.041086
+
+With theta = [-1 ; 2]
+Cost computed = 22.137713
+
+With theta = [-1 ; 2]
+Cost computed = 62.533471
+
+With theta = [-1 ; 2]
+Cost computed = 214.003591
+
+With theta = [-1 ; 2]
+Cost computed = 23.164245
+Expected cost value (approx) 54.24
+Program paused. Press enter to continue.
